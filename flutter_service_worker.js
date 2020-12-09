@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/AssetManifest.json": "8da0336a1508d212638b5cdb180e1993",
-"assets/assets/cover.jpeg": "1a762f948495823a0472596cfcb15643",
-"assets/assets/kira_logo.png": "95c92c4a1e5acb6346666aec627f1144",
+"assets/cover.jpeg": "1a762f948495823a0472596cfcb15643",
+"assets/kira_logo.png": "95c92c4a1e5acb6346666aec627f1144",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/NOTICES": "ec24e8290c2df924620a414b79c86f60",
